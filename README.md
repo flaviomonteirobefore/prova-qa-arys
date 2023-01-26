@@ -69,7 +69,7 @@ O relatório deve ser incluído na pasta **Relatorio**
 
 A prova poderá ser entregue até:
 
-**04/01/2023 às 23:59:59**
+**29/01/2023 às 23:59:59**
 
 ## Como entregar a prova
 
